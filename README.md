@@ -17,7 +17,7 @@ Interested in computer graphics, technical art. Passionate about __technical art
 
 ## 🔗 Connect with me on :
 
-[![Discord](https://lanyard.cnrad.dev/api/176577264555786240?bg=141321&hideDiscrim=true)](https://discord.com/users/811943532234670161)
+[![Discord](https://lanyard.cnrad.dev/api/811943532234670161?bg=141321&hideDiscrim=true)](https://discord.com/users/811943532234670161)
 
 ### 👀 visitor count
 
