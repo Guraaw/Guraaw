@@ -1,11 +1,11 @@
 <h1 align="center" > Hi, I am Gura 👋</h1>
-
+<img src="https://i.ibb.co/T0ch9fG/pp2.png" width="100%" alt="profile" border="0"/>
 ![](https://www.notion.so/image/https%3A%2F%2Fwebstatic.hoyoverse.com%2Fupload%2Fcontentweb%2F2022%2F11%2F30%2Ffa14d2bde51b55cbfa5910bb696254c3_1826642087879779515.png?table=block&id=55345746-68a2-4539-8d8c-1c38997d10fe&spaceId=8346f43c-7e72-49b1-9bc0-36914028b374&width=2000&userId=daccf15c-2038-4e13-9675-875020f6f17a&cache=v2)
 
 <hr/>
 
 <div align="center">
-
+## **📊 Github Stats**
 
 [![Gura's github stats](https://github-readme-stats.vercel.app/api?username=guraaw&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guraaw&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
@@ -17,11 +17,11 @@ Interested in computer graphics, technical art. Passionate about __technical art
 
 ## 🔗 Connect with me on :
 
-[![Discord](https://lanyard.cnrad.dev/api/811943532234670161?bg=141321&hideDiscrim=true)](https://discord.com/users/811943532234670161)
+[![Discord Presence](https://lanyard.cnrad.dev/api/811943532234670161)](https://discord.com/users/811943532234670161)
 
-### 👀 visitor count
+## **🧋Cutie Counter**
 
-![](http://antzuhl.cn:4000/get/@littleTreeme)
+<a href="https://discord.com/users/811943532234670161"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@miyagawamizu?theme=rule34"></a>
 
 <hr />
 
